@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-01T10:16:09.124Z</updated>
+  <updated>2020-08-01T10:24:41.389Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="http://yoursite.com/2020/08/01/%E6%B7%B7%E5%90%88app%E4%B8%ADwebview%E5%92%8Cjs%E7%9A%84%E4%BA%A4%E4%BA%92--js%E8%B0%83%E7%94%A8C#%E5%A6%82%E4%BD%95%E5%BE%97%E5%88%B0%E8%BF%94%E5%9B%9E%E5%80%BC/"/>
     <id>http://yoursite.com/2020/08/01/%E6%B7%B7%E5%90%88app%E4%B8%ADwebview%E5%92%8Cjs%E7%9A%84%E4%BA%A4%E4%BA%92--js%E8%B0%83%E7%94%A8C#%E5%A6%82%E4%BD%95%E5%BE%97%E5%88%B0%E8%BF%94%E5%9B%9E%E5%80%BC/</id>
     <published>2020-08-01T06:40:00.000Z</published>
-    <updated>2020-08-01T10:16:09.124Z</updated>
+    <updated>2020-08-01T10:24:41.389Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;a
-        
-      
+      &lt;p&gt;本文所用的混合app，采用xamarin.forms编写手机端代码，react编写web端代码，react编译后的代码文件放入xamarin的android assets文件夹中，用的本地html的方式。&lt;/p&gt;
     
     </summary>
     
